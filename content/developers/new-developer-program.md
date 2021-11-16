@@ -6,8 +6,7 @@ The goals of the program are to
 * welcome and onboard new developers
 * develop educational material to assist new developers 
 * strengthen community and interactions between Bioconductor developers
-* develop processes and resources that improve the quality of packages submitted to Bioconductor (more new packages pass review faster). 
-
+* develop processes and resources that improve the quality of packages submitted to Bioconductor 
 ## Format
 Each program cycle lasting six months and running concurrently with the Bioconductor release schedule. 
 
