@@ -7,9 +7,8 @@ The goals of the program are to
 * develop educational material to assist new developers 
 * strengthen community and interactions between Bioconductor developers
 * develop processes and resources that improve the quality of packages submitted to Bioconductor 
-## Format
-Each program cycle lasting six months and running concurrently with the Bioconductor release schedule. 
 
+## Format
 Each mentorship program cycle will run for one development cycle of Bioconductor package release (approximately 6 months), with the aim to submit a candidate package to the [Bioconductor/Contributions]
 (https://github.com/Bioconductor/Contributions) GitHub repository with sufficient advance for review ahead of the following release deadline. 
 
